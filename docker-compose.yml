@@ -1,0 +1,32 @@
+services:
+  # =========================================
+  # Development Service
+  # =========================================
+  dev:
+    build:
+      context: .
+      target: dev
+    ports:
+      - "3000:3000"
+    volumes:
+      # Mount source for hot reload
+      - .:/app
+      # Preserve node_modules from container
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+    profiles:
+      - dev
+
+  # =========================================
+  # Production Service
+  # =========================================
+  prod:
+    build:
+      context: .
+      target: production
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+    profiles:
+      - prod
