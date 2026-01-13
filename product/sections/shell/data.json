@@ -1,0 +1,75 @@
+{
+    "header": {
+        "title": "CUSTOM MORTGAGE",
+        "subtitle": "NATIONWIDE LENDER",
+        "navigation": [
+            {
+                "label": "Home",
+                "url": "/"
+            },
+            {
+                "label": "Programs",
+                "url": "/programs"
+            },
+            {
+                "label": "Funded Loans",
+                "url": "/funded-loans"
+            },
+            {
+                "label": "Locations",
+                "url": "/locations"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact"
+            }
+        ],
+        "cta": {
+            "label": "Apply Now",
+            "url": "https://custommortgage.floify.com/"
+        }
+    },
+    "footer": {
+        "columns": [
+            {
+                "title": "Quick Links",
+                "links": [
+                    {
+                        "label": "Privacy Policy",
+                        "url": "/privacy"
+                    },
+                    {
+                        "label": "Terms of Service",
+                        "url": "/terms"
+                    },
+                    {
+                        "label": "Sitemap",
+                        "url": "/sitemap"
+                    }
+                ]
+            },
+            {
+                "title": "Information",
+                "links": [
+                    {
+                        "label": "NMLS #123456",
+                        "url": "#"
+                    },
+                    {
+                        "label": "Equal Housing Opportunity",
+                        "url": "#"
+                    },
+                    {
+                        "label": "Licensing",
+                        "url": "/licensing"
+                    }
+                ]
+            },
+            {
+                "title": "Contact",
+                "text": "15910 Ventura Blvd, Suite 123\nEncino, CA 91436\nLocal: (877) 976-5669"
+            }
+        ],
+        "copyright": "© 2026 Custom Mortgage Inc. | Nationwide Lender"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "hero": {
+        "heading": "Custom Mortgage – Nationwide Lender",
+        "subheading": "FinTech Financing Solutions Tailored for Your Unique Needs",
+        "cta": {
+            "label": "Apply Online Now",
+            "url": "https://custommortgage.floify.com/"
+        }
+    },
+    "services": [
+        {
+            "title": "Stated Income",
+            "url": "/programs/stated-income",
+            "icon": "trending-up"
+        },
+        {
+            "title": "Hard Money",
+            "url": "/programs/hard-money",
+            "icon": "home"
+        },
+        {
+            "title": "Reverse Mortgage",
+            "url": "/programs/reverse-mortgage",
+            "icon": "repeat"
+        },
+        {
+            "title": "Construction Loans",
+            "url": "/programs/construction",
+            "icon": "tool"
+        },
+        {
+            "title": "Vacant Land",
+            "url": "/programs/vacant-land",
+            "icon": "map"
+        },
+        {
+            "title": "Commercial Property",
+            "url": "/programs/commercial",
+            "icon": "briefcase"
+        }
+    ],
+    "narrative": {
+        "title": "A FinTech Real Estate and Finance Agency",
+        "text": "We combine industry expertise with a FinTech approach to meet all your real estate and financial needs. Whether you’re looking to secure the perfect mortgage, invest in a new property, or refinance an existing loan, our team of professionals is here to guide you every step of the way.",
+        "ctas": [
+            {
+                "label": "Call Us (877)-976-5669",
+                "url": "tel:8779765669",
+                "variant": "secondary"
+            },
+            {
+                "label": "Apply Online Now",
+                "url": "https://custommortgage.floify.com/",
+                "variant": "primary"
+            }
+        ]
+    },
+    "recently_funded_preview": [
+        {
+            "title": "Hard Money JR LIEN",
+            "location": "San Fernando, CA 91340",
+            "excerpt": "Hard money junior lien loans offer flexible, fast approval financing...",
+            "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "title": "FHA HB 30-Year Fixed",
+            "location": "Santa Clarita, CA 91321",
+            "excerpt": "The FHA HB 30-Year Fixed Mortgage offers stability and affordability...",
+            "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80"
+        }
+    ]
+}

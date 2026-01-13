@@ -2,7 +2,7 @@
 
 ## 📋 Overlay
 **Description:** Central Design System and UI Component Library.
-**Tech Stack:** React, TypeScript, Tailwind CSS, Storybook (TBD)
+**Tech Stack:** React, TypeScript, Tailwind CSS, Storybook
 **Status:** Active
 
 ---

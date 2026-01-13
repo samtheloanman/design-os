@@ -1,0 +1,46 @@
+{
+    "location": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90011",
+        "assigned_office_name": "Encino HQ"
+    },
+    "office": {
+        "name": "Custom Mortgage Encino",
+        "address": "15910 Ventura Blvd, Suite 123, Encino, CA 91436",
+        "phone": "(877) 976-5669",
+        "email": "info@custommortgageinc.com",
+        "hours": "Mon-Fri: 9am - 6pm",
+        "gps": {
+            "lat": 34.1558,
+            "lng": -118.4793
+        }
+    },
+    "local_content": {
+        "intro_text": "Los Angeles remains one of the most dynamic real estate markets in the country. Whether you're looking for a luxury home in Beverly Hills or an investment property in Silver Lake, our local experts understand the nuances of the LA market.",
+        "faqs": [
+            {
+                "q": "What is the maximum FHA loan limit in Los Angeles?",
+                "a": "For 2026, the FHA one-unit loan limit in Los Angeles County is $1,149,825."
+            },
+            {
+                "q": "Are there local down payment assistance programs?",
+                "a": "Yes, we work with several state and local agencies providing assistance to first-time buyers in CA."
+            }
+        ]
+    },
+    "nearby_programs": [
+        {
+            "title": "FHA Loans",
+            "url": "/programs/fha"
+        },
+        {
+            "title": "DSCR Investor Loans",
+            "url": "/programs/dscr"
+        },
+        {
+            "title": "Jumbo Loans",
+            "url": "/programs/jumbo"
+        }
+    ]
+}

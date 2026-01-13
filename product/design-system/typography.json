@@ -1,0 +1,11 @@
+{
+  "headings": {
+    "fontFamily": "Bebas Neue, Arial, sans-serif",
+    "textTransform": "uppercase",
+    "fontWeight": "700"
+  },
+  "body": {
+    "fontFamily": "Lato, system-ui, sans-serif",
+    "weights": [300, 400, 700]
+  }
+}

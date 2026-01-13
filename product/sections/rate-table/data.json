@@ -1,0 +1,40 @@
+{
+    "table_header": {
+        "title": "Daily Mortgage Rates",
+        "last_updated": "January 14, 2026"
+    },
+    "rates": [
+        {
+            "lender_name": "UWM",
+            "program": "Conventional 30-Year Fixed",
+            "rate": 6.25,
+            "points": 0.0,
+            "apr": 6.31,
+            "payment": 2153
+        },
+        {
+            "lender_name": "Acra Lending",
+            "program": "DSCR Investor Loan",
+            "rate": 7.5,
+            "points": 1.0,
+            "apr": 7.64,
+            "payment": 2447
+        },
+        {
+            "lender_name": "Newrez",
+            "program": "FHA 30-Year Fixed",
+            "rate": 6.125,
+            "points": 0.5,
+            "apr": 6.29,
+            "payment": 2125
+        },
+        {
+            "lender_name": "PennyMac",
+            "program": "VA 30-Year Fixed",
+            "rate": 5.99,
+            "points": 0.0,
+            "apr": 6.05,
+            "payment": 2095
+        }
+    ]
+}

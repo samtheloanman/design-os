@@ -1,0 +1,41 @@
+{
+    "wizard_config": {
+        "title": "Get Your Custom Quote",
+        "steps": [
+            "Location",
+            "Amount",
+            "Credit",
+            "Value"
+        ]
+    },
+    "sample_results": {
+        "ltv": 76.92,
+        "matches_found": 8,
+        "quotes": [
+            {
+                "lender": "Acra Lending",
+                "program": "Investor Advantage A+",
+                "rate": 6.875,
+                "points": 1.25
+            },
+            {
+                "lender": "Newrez",
+                "program": "SmartEdge Non-QM",
+                "rate": 7.125,
+                "points": 0.5
+            },
+            {
+                "lender": "UWM",
+                "program": "Conventional 30-Year Fixed",
+                "rate": 6.375,
+                "points": 0.0
+            }
+        ]
+    },
+    "form_defaults": {
+        "property_state": "CA",
+        "loan_amount": 500000,
+        "credit_score": 720,
+        "property_value": 650000
+    }
+}

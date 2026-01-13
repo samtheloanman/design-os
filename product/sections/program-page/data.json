@@ -1,0 +1,43 @@
+{
+    "program": {
+        "title": "FHA HB 30-Year Fixed Mortgage",
+        "category": "FHA Loans",
+        "description": "Secure your primary home with an FHA HB 30-Year Fixed Mortgage. Affordable monthly payments, low down payment options, and government-backed financing.",
+        "badges": [
+            "Funded",
+            "Low Down Payment"
+        ]
+    },
+    "content_blocks": [
+        {
+            "type": "text",
+            "heading": "Why choose an FHA Loan?",
+            "content": "FHA loans are a great option for first-time homebuyers or those with lower credit scores. Because they are insured by the Federal Housing Administration, lenders can offer more competitive rates and lower down payment requirements."
+        },
+        {
+            "type": "features",
+            "heading": "Program Benefits",
+            "items": [
+                "Down payments as low as 3.5%",
+                "Fixed monthly payments for 30 years",
+                "Higher loan limits for High-Balance areas",
+                "Flexible credit score requirements"
+            ]
+        },
+        {
+            "type": "requirements",
+            "heading": "Eligibility Criteria",
+            "items": [
+                "Minimum FICO score of 580",
+                "DTI ratio below 43% in most cases",
+                "Must be for a Primary Residence",
+                "Appraisal must meet HUD standards"
+            ]
+        }
+    ],
+    "cta_banner": {
+        "text": "Ready to get started with an FHA loan?",
+        "button_label": "Get My Quote",
+        "url": "/quote"
+    }
+}
