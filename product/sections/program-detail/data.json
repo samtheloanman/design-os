@@ -1,0 +1,158 @@
+{
+  "program": {
+    "id": "fha-mortgage",
+    "name": "FHA Mortgage",
+    "slug": "fha-mortgage",
+    "isLocalVariation": false,
+    "programType": "Residential",
+    "residential": [
+      "FHA",
+      "FHA 203k Mortgage",
+      "FHA DPA 100% 0 Down Payment Mortgage",
+      "FHA High Balance Mortgage"
+    ],
+    "mortgageProgramHighlights": "<ul><li>Low down payment options starting at 3.5%</li><li>Flexible credit score requirements (minimum 580)</li><li>Competitive interest rates</li><li>Support for first-time homebuyers</li></ul>",
+    "interestRates": "Current rates range from 6.5% to 7.25% depending on credit score and loan-to-value ratio. Rates subject to change daily.",
+    "minimumLoanAmount": "$50,000",
+    "maximumLoanAmount": "$1,149,200 (varies by county)",
+    "minCreditScore": 580,
+    "maxLTV": "96.5%",
+    "maxDebtToIncomeRatio": 0.50,
+    "detailsAboutProgram": "<h3>FHA Mortgage Overview</h3><p>FHA (Federal Housing Administration) mortgages are government-backed loans designed to help borrowers with lower credit scores and limited down payment savings achieve homeownership. These loans are perfect for first-time homebuyers and those looking for flexible qualification criteria.</p><p>FHA loans feature:</p><ul><li>Down payments as low as 3.5% of the purchase price</li><li>Competitive interest rates backed by federal insurance</li><li>Streamlined refinancing options</li><li>Ability to qualify with credit scores as low as 580</li></ul>",
+    "requirements": "<h3>FHA Mortgage Requirements</h3><ul><li>Minimum credit score of 580 (with 3.5% down) or 500-579 (with 10% down)</li><li>Valid Social Security number</li><li>Proof of income (2 years of tax returns)</li><li>Stable employment history</li><li>Property must be primary residence</li><li>Property must meet FHA minimum property standards</li><li>Debt-to-income ratio not to exceed 50%</li><li>No recent bankruptcy (within 2 years for Chapter 7, 1 year for Chapter 13)</li></ul>",
+    "whatAre": "<p>FHA mortgages are loans insured by the Federal Housing Administration. When you take out an FHA loan, the lender is protected by federal insurance if you default on the loan. This federal backing allows lenders to offer more favorable terms to borrowers who might not otherwise qualify for conventional loans.</p><p>The government doesn't actually loan you money—private lenders do. The FHA simply insures the loan, which makes borrowers with less-than-perfect credit eligible for homeownership.</p>",
+    "benefitsOf": "<h3>Key Benefits of FHA Mortgages</h3><ul><li><strong>Low Down Payment:</strong> Qualify with as little as 3.5% down</li><li><strong>Flexible Credit Requirements:</strong> Credit scores as low as 580 accepted</li><li><strong>Competitive Rates:</strong> FHA loans often feature competitive interest rates</li><li><strong>First-Time Buyer Friendly:</strong> Ideal for borrowers new to homeownership</li><li><strong>Assumable Loans:</strong> Qualified buyers may assume your FHA loan</li><li><strong>Refinancing Options:</strong> Streamlined refinancing available without full re-qualification</li></ul>",
+    "howToQualifyFor": "<h3>How to Qualify for an FHA Mortgage</h3><ol><li><strong>Check Your Credit Score:</strong> Aim for at least 580 for the best terms</li><li><strong>Get Organized:</strong> Gather recent tax returns, W2s, pay stubs, and bank statements</li><li><strong>Calculate Your Debt-to-Income Ratio:</strong> Your total monthly debts shouldn't exceed 50% of gross monthly income</li><li><strong>Get Pre-Approved:</strong> Contact our loan officers for a free pre-qualification</li><li><strong>Find a Property:</strong> Search for homes that meet FHA property standards</li><li><strong>Complete the Application:</strong> Provide full financial documentation</li><li><strong>Home Inspection:</strong> Schedule FHA-approved inspection to ensure property meets standards</li><li><strong>Final Approval:</strong> Receive loan approval and schedule closing</li></ol>",
+    "whyUs": "<h3>Why Choose CMRE for Your FHA Mortgage</h3><p>With over 20 years of experience, CMRE specializes in helping first-time homebuyers and borrowers with credit challenges achieve their homeownership dreams. We offer:</p><ul><li>Fast pre-qualification (often within 24 hours)</li><li>Dedicated FHA specialists on staff</li><li>Competitive rates and low fees</li><li>Flexible underwriting with understanding for past credit issues</li><li>Local loan officers in 50+ markets nationwide</li><li>Transparent communication throughout the process</li></ul>",
+    "programFAQ": "<h3>Frequently Asked Questions</h3><h4>What's the minimum credit score for FHA?</h4><p>The minimum is typically 580 for a 3.5% down payment. Borrowers with scores between 500-579 can qualify with a 10% down payment, but rates will be higher.</p><h4>Can I get an FHA loan with a bankruptcy on my credit?</h4><p>Yes! FHA loans are very forgiving. You can qualify 2 years after a Chapter 7 bankruptcy discharge or 1 year after a Chapter 13 bankruptcy begins.</p><h4>What are FHA mortgage insurance premiums?</h4><p>Upfront mortgage insurance premium (UFMIP) is typically 1.75% of the loan amount. Annual mortgage insurance premium (MIP) varies based on down payment and loan amount.</p><h4>Can I use FHA for investment properties?</h4><p>No, FHA loans are only for primary residences. The property must be your main home.</p>",
+    "propertyTypesResidential": [
+      "Single Family",
+      "Condo",
+      "Townhome",
+      "Multi-Unit 2-4"
+    ],
+    "occupancy": [
+      "Owner Occupied"
+    ],
+    "lienPosition": [
+      "1st"
+    ],
+    "amortizationTerms": [
+      "15",
+      "30"
+    ],
+    "incomeDocumentationType": [
+      "W2",
+      "Paystubs",
+      "2yr Tax Returns"
+    ],
+    "purposeOfMortgage": [
+      "Purchase",
+      "Refinance",
+      "Cash-Out Refinance"
+    ],
+    "refinanceMortgage": [
+      "Rate and Term",
+      "Cash-Out",
+      "FHA Streamline"
+    ],
+    "borrowerType": [
+      "Individual",
+      "Self-Employed"
+    ],
+    "citizenship": [
+      "US Citizen",
+      "Permanent Resident"
+    ],
+    "creditEvent": [
+      "No Credit Event",
+      "Bankruptcy",
+      "Foreclosure",
+      "Short Sale",
+      "Late Payments"
+    ],
+    "mortgageLates": [
+      "No Lates",
+      "30 Day Late",
+      "60 Day Late"
+    ]
+  },
+  "relatedPrograms": [
+    {
+      "id": "va-mortgage",
+      "name": "VA Mortgage",
+      "slug": "va-mortgage",
+      "isLocalVariation": false,
+      "programType": "Residential",
+      "mortgageProgramHighlights": "Veterans benefit program with no down payment required"
+    },
+    {
+      "id": "conventional-mortgage",
+      "name": "Conventional Mortgage",
+      "slug": "conventional-mortgage",
+      "isLocalVariation": false,
+      "programType": "Residential",
+      "mortgageProgramHighlights": "Traditional 20% down mortgage for well-qualified borrowers"
+    },
+    {
+      "id": "usda-mortgage",
+      "name": "USDA Mortgage",
+      "slug": "usda-mortgage",
+      "isLocalVariation": false,
+      "programType": "Residential",
+      "mortgageProgramHighlights": "Rural property financing with zero down payment options"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "borrowerName": "Sarah Martinez",
+      "testimonialText": "I never thought I could buy a home with my credit score, but CMRE made it happen. The FHA loan process was smooth and fast. I'm now a homeowner!",
+      "rating": 5,
+      "loanProgram": "FHA Mortgage",
+      "propertyLocation": "Austin, TX"
+    },
+    {
+      "id": "testimonial-2",
+      "borrowerName": "James Chen",
+      "testimonialText": "The team at CMRE was so helpful explaining everything. They got me pre-approved in just 2 days. Can't recommend them enough!",
+      "rating": 5,
+      "loanProgram": "FHA Mortgage",
+      "propertyLocation": "Seattle, WA"
+    },
+    {
+      "id": "testimonial-3",
+      "borrowerName": "Rachel Thompson",
+      "testimonialText": "As a first-time homebuyer, I was nervous about the whole process. CMRE's specialists walked me through every step. Highly recommended!",
+      "rating": 5,
+      "loanProgram": "FHA Mortgage",
+      "propertyLocation": "Denver, CO"
+    }
+  ],
+  "fundedLoans": [
+    {
+      "id": "funded-1",
+      "title": "$285,000 FHA Purchase - Single Family Home",
+      "loanAmount": "$285,000",
+      "location": "Austin, TX",
+      "programUsed": "FHA Mortgage",
+      "propertyImage": "https://images.unsplash.com/photo-1570129477492-45ac003c4de0?w=600&h=400&fit=crop"
+    },
+    {
+      "id": "funded-2",
+      "title": "$195,000 FHA Cash-Out Refinance - Condo",
+      "loanAmount": "$195,000",
+      "location": "Denver, CO",
+      "programUsed": "FHA Mortgage",
+      "propertyImage": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&h=400&fit=crop"
+    },
+    {
+      "id": "funded-3",
+      "title": "$325,500 FHA Purchase - Townhome",
+      "loanAmount": "$325,500",
+      "location": "Seattle, WA",
+      "programUsed": "FHA Mortgage",
+      "propertyImage": "https://images.unsplash.com/photo-1580587771525-78991c7a0de8?w=600&h=400&fit=crop"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "programs": [
+    {
+      "id": "fha-mortgage",
+      "name": "FHA Mortgage",
+      "slug": "fha-mortgage",
+      "programType": "Residential",
+      "highlights": [
+        "Low down payment (3.5%)",
+        "Flexible credit (580+)",
+        "Great for first-time buyers"
+      ],
+      "minCreditScore": 580,
+      "interestRateRange": "6.5% - 7.25%",
+      "minDownPayment": "3.5%",
+      "borrowerTypes": ["Individual", "Self-Employed"],
+      "occupancy": ["Owner Occupied"],
+      "propertyTypes": ["Single Family", "Condo", "Townhome", "Multi-Unit 2-4"]
+    },
+    {
+      "id": "va-mortgage",
+      "name": "VA Mortgage",
+      "slug": "va-mortgage",
+      "programType": "Residential",
+      "highlights": [
+        "Zero down payment",
+        "No mortgage insurance",
+        "Military exclusive"
+      ],
+      "minCreditScore": 620,
+      "interestRateRange": "6.0% - 6.75%",
+      "minDownPayment": "0%",
+      "borrowerTypes": ["Individual"],
+      "occupancy": ["Owner Occupied"],
+      "propertyTypes": ["Single Family", "Condo", "Townhome"]
+    },
+    {
+      "id": "conventional-mortgage",
+      "name": "Conventional Mortgage",
+      "slug": "conventional-mortgage",
+      "programType": "Residential",
+      "highlights": [
+        "Traditional 20% down",
+        "Excellent credit required",
+        "Lowest rates available"
+      ],
+      "minCreditScore": 740,
+      "interestRateRange": "5.5% - 6.5%",
+      "minDownPayment": "20%",
+      "borrowerTypes": ["Individual", "Self-Employed"],
+      "occupancy": ["Owner Occupied", "Investment Property"],
+      "propertyTypes": ["Single Family", "Condo", "Townhome", "Multi-Unit 2-4", "Multi-Unit 5+"]
+    },
+    {
+      "id": "usda-mortgage",
+      "name": "USDA Mortgage",
+      "slug": "usda-mortgage",
+      "programType": "Residential",
+      "highlights": [
+        "Zero down payment",
+        "Rural properties only",
+        "Income limits apply"
+      ],
+      "minCreditScore": 580,
+      "interestRateRange": "6.25% - 7.0%",
+      "minDownPayment": "0%",
+      "borrowerTypes": ["Individual"],
+      "occupancy": ["Owner Occupied"],
+      "propertyTypes": ["Single Family"]
+    },
+    {
+      "id": "jumbo-residential",
+      "name": "Jumbo Residential",
+      "slug": "jumbo-residential",
+      "programType": "Jumbo Residential",
+      "highlights": [
+        "Loans over $1M",
+        "Premium rates",
+        "Luxury properties"
+      ],
+      "minCreditScore": 720,
+      "interestRateRange": "6.5% - 7.5%",
+      "minDownPayment": "10%",
+      "borrowerTypes": ["Individual", "Business Owner"],
+      "occupancy": ["Owner Occupied"],
+      "propertyTypes": ["Single Family"]
+    },
+    {
+      "id": "sba-commercial",
+      "name": "SBA 7(a) Commercial",
+      "slug": "sba-commercial",
+      "programType": "Commercial",
+      "highlights": [
+        "Small business financing",
+        "SBA guaranteed",
+        "Flexible terms"
+      ],
+      "minCreditScore": 680,
+      "interestRateRange": "7.0% - 9.0%",
+      "minDownPayment": "10%",
+      "borrowerTypes": ["Business Owner", "LLC"],
+      "occupancy": ["Investment Property"],
+      "propertyTypes": ["Office", "Retail", "Industrial", "Multi-Family"]
+    },
+    {
+      "id": "fix-and-flip",
+      "name": "Fix & Flip Hard Money",
+      "slug": "fix-and-flip",
+      "programType": "Hard Money",
+      "highlights": [
+        "Fast funding (7-10 days)",
+        "Investment properties",
+        "Up to 90% LTV"
+      ],
+      "minCreditScore": 600,
+      "interestRateRange": "8.0% - 12.0%",
+      "minDownPayment": "10%",
+      "borrowerTypes": ["Business Owner", "Investor"],
+      "occupancy": ["Investment Property"],
+      "propertyTypes": ["Single Family", "Multi-Unit 2-4"]
+    },
+    {
+      "id": "dscr-loan",
+      "name": "DSCR Non-QM",
+      "slug": "dscr-loan",
+      "programType": "NonQM Stated No Doc No income",
+      "highlights": [
+        "Income verification optional",
+        "Self-employed friendly",
+        "Investment properties"
+      ],
+      "minCreditScore": 620,
+      "interestRateRange": "7.5% - 8.5%",
+      "minDownPayment": "20%",
+      "borrowerTypes": ["Self-Employed", "Business Owner"],
+      "occupancy": ["Investment Property"],
+      "propertyTypes": ["Multi-Family", "Commercial"]
+    },
+    {
+      "id": "heloc",
+      "name": "Home Equity Line of Credit",
+      "slug": "heloc",
+      "programType": "Residential",
+      "highlights": [
+        "Tap home equity",
+        "Draw period flexible",
+        "Competitive rates"
+      ],
+      "minCreditScore": 700,
+      "interestRateRange": "7.0% - 9.0%",
+      "minDownPayment": "0%",
+      "borrowerTypes": ["Individual"],
+      "occupancy": ["Owner Occupied"],
+      "propertyTypes": ["Single Family", "Condo"]
+    },
+    {
+      "id": "reverse-mortgage",
+      "name": "Reverse Mortgage HECM",
+      "slug": "reverse-mortgage",
+      "programType": "Reverse Mortgage",
+      "highlights": [
+        "Age 62+ only",
+        "No monthly payments",
+        "Tap home equity"
+      ],
+      "minCreditScore": 580,
+      "interestRateRange": "6.5% - 7.5%",
+      "minDownPayment": "0%",
+      "borrowerTypes": ["Individual"],
+      "occupancy": ["Owner Occupied"],
+      "propertyTypes": ["Single Family", "Condo"]
+    },
+    {
+      "id": "construction-loan",
+      "name": "Construction Loan",
+      "slug": "construction-loan",
+      "programType": "Construction",
+      "highlights": [
+        "New construction financing",
+        "Interest-only during construction",
+        "Converts to mortgage"
+      ],
+      "minCreditScore": 680,
+      "interestRateRange": "7.5% - 8.5%",
+      "minDownPayment": "15%",
+      "borrowerTypes": ["Individual", "Business Owner"],
+      "occupancy": ["Owner Occupied", "Investment Property"],
+      "propertyTypes": ["Single Family"]
+    },
+    {
+      "id": "bank-statement-loan",
+      "name": "Bank Statement Non-QM",
+      "slug": "bank-statement-loan",
+      "programType": "NonQM Stated No Doc No income",
+      "highlights": [
+        "No tax returns required",
+        "Bank statements only",
+        "Self-employed friendly"
+      ],
+      "minCreditScore": 620,
+      "interestRateRange": "7.25% - 8.75%",
+      "minDownPayment": "20%",
+      "borrowerTypes": ["Self-Employed", "Business Owner"],
+      "occupancy": ["Owner Occupied", "Investment Property"],
+      "propertyTypes": ["Single Family", "Multi-Unit 2-4"]
+    },
+    {
+      "id": "asset-based-loan",
+      "name": "Asset-Based Non-QM",
+      "slug": "asset-based-loan",
+      "programType": "NonQM Stated No Doc No income",
+      "highlights": [
+        "Qualify on assets alone",
+        "No income verification",
+        "High net worth borrowers"
+      ],
+      "minCreditScore": 640,
+      "interestRateRange": "7.0% - 8.5%",
+      "minDownPayment": "25%",
+      "borrowerTypes": ["Individual", "Business Owner"],
+      "occupancy": ["Owner Occupied", "Investment Property"],
+      "propertyTypes": ["Single Family", "Condo"]
+    }
+  ],
+  "filters": {
+    "search": "",
+    "programType": [],
+    "borrowerType": [],
+    "creditScore": [500, 800],
+    "downPayment": [0, 25],
+    "occupancy": [],
+    "purpose": []
+  },
+  "stats": {
+    "totalPrograms": 179,
+    "programTypes": [
+      { "type": "Residential", "count": 45 },
+      { "type": "Commercial", "count": 28 },
+      { "type": "Hard Money", "count": 12 },
+      { "type": "NonQM", "count": 35 },
+      { "type": "Reverse Mortgage", "count": 8 },
+      { "type": "Construction", "count": 18 },
+      { "type": "Land", "count": 10 },
+      { "type": "Jumbo", "count": 27 }
+    ],
+    "avgMinCreditScore": 640,
+    "loanAmountRange": {
+      "min": "$50,000",
+      "max": "$5,000,000+"
+    }
+  }
+}

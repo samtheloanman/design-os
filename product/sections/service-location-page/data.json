@@ -1,0 +1,400 @@
+{
+  "locationId": "ny-metro",
+  "city": "New York",
+  "state": "NY",
+  "slug": "new-york",
+  "heroImage": "https://images.unsplash.com/photo-1532519410851-1a64e4dd00b5?w=1200",
+  "officeInfo": {
+    "id": "office-ny-metro",
+    "name": "CMRE New York Metro Office",
+    "address": "123 Park Avenue, Suite 2500",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10017",
+    "phone": "(212) 555-0100",
+    "email": "newyork@cmre.com",
+    "hours": {
+      "monday": "8:00 AM - 6:00 PM",
+      "tuesday": "8:00 AM - 6:00 PM",
+      "wednesday": "8:00 AM - 6:00 PM",
+      "thursday": "8:00 AM - 6:00 PM",
+      "friday": "8:00 AM - 5:00 PM",
+      "saturday": "10:00 AM - 2:00 PM"
+    },
+    "yearsServing": 18,
+    "managedBadge": "Locally Managed"
+  },
+  "teamMembers": [
+    {
+      "id": "tm-1",
+      "name": "Sarah Mitchell",
+      "title": "Senior Loan Officer",
+      "email": "smitchell@cmre.com",
+      "phone": "(212) 555-0101",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
+      "bio": "Sarah has been serving the New York market for 12 years, specializing in residential mortgages and jumbo loans. She's helped over 800 families find their perfect home in the NYC area.",
+      "specialties": ["Residential", "Jumbo Loans", "Refinancing", "FHA"],
+      "yearsExperience": 12,
+      "fundsManaged": "$450M+",
+      "successfulClosings": 800
+    },
+    {
+      "id": "tm-2",
+      "name": "Marcus Johnson",
+      "title": "Commercial Lending Specialist",
+      "email": "mjohnson@cmre.com",
+      "phone": "(212) 555-0102",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+      "bio": "Marcus specializes in commercial real estate financing for NYC-based businesses. With 15 years in the industry, he's closed over 200 commercial deals.",
+      "specialties": ["Commercial", "SBA Loans", "Investment Properties", "Multi-Family"],
+      "yearsExperience": 15,
+      "fundsManaged": "$750M+",
+      "successfulClosings": 215
+    },
+    {
+      "id": "tm-3",
+      "name": "Jennifer Chen",
+      "title": "Non-QM Specialist",
+      "email": "jchen@cmre.com",
+      "phone": "(212) 555-0103",
+      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400",
+      "bio": "Jennifer specializes in non-traditional loan programs for self-employed borrowers and investors. She's helped over 350 entrepreneurs and business owners achieve their real estate goals.",
+      "specialties": ["Non-QM", "Self-Employed", "DSCR Loans", "Bank Statement"],
+      "yearsExperience": 10,
+      "fundsManaged": "$320M+",
+      "successfulClosings": 350
+    },
+    {
+      "id": "tm-4",
+      "name": "Robert Diaz",
+      "title": "Pre-Qualification Manager",
+      "email": "rdiaz@cmre.com",
+      "phone": "(212) 555-0104",
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+      "bio": "Robert leads our pre-qualification team and ensures every borrower gets personalized attention from day one. He's known for his quick turnaround times and borrower-first approach.",
+      "specialties": ["Pre-Qualification", "Credit Analysis", "First-Time Buyers", "FHA"],
+      "yearsExperience": 8,
+      "successfulClosings": 425
+    }
+  ],
+  "marketStats": {
+    "activeProgramsCount": 165,
+    "totalFundedAmount": "$12.5B+",
+    "neighborhoodsServed": 45,
+    "yearsServing": 18,
+    "dealsClosedLocally": 8500,
+    "teamSize": 12
+  },
+  "marketInfo": {
+    "city": "New York",
+    "state": "NY",
+    "region": "Northeast",
+    "marketDescription": "The New York metropolitan area is one of the nation's most competitive real estate markets. CMRE has been a trusted lending partner for 18 years, serving individuals, families, and business owners throughout Manhattan, Brooklyn, Queens, and the surrounding areas.",
+    "primaryMarketFocus": [
+      "Residential mortgages",
+      "Jumbo loans",
+      "Commercial real estate",
+      "Investment properties",
+      "Co-op financing"
+    ],
+    "demographicFocus": "Urban professionals, investors, business owners, and families",
+    "economicHighlights": [
+      "Average home price: $650K+",
+      "Median household income: $85K+",
+      "Growing tech and finance sectors",
+      "Strong investment property market"
+    ]
+  },
+  "localPrograms": [
+    {
+      "id": "conventional-ny",
+      "name": "Conventional Mortgage",
+      "slug": "conventional-mortgage",
+      "programType": "Residential",
+      "highlights": [
+        "Loans up to $1.5M in NY area",
+        "Excellent credit required",
+        "Lowest rates available"
+      ],
+      "minCreditScore": 740,
+      "interestRateRange": "5.5% - 6.5%",
+      "minDownPayment": "20%",
+      "borrowerTypes": ["Individual", "Self-Employed"],
+      "occupancy": ["Owner Occupied", "Investment Property"],
+      "propertyTypes": ["Single Family", "Condo", "Townhome", "Multi-Unit 2-4"],
+      "availableInLocation": true,
+      "localVolume": 450
+    },
+    {
+      "id": "jumbo-ny",
+      "name": "Jumbo Residential",
+      "slug": "jumbo-residential",
+      "programType": "Jumbo Residential",
+      "highlights": [
+        "Loans from $1M - $5M+",
+        "Luxury properties",
+        "New York specialists"
+      ],
+      "minCreditScore": 720,
+      "interestRateRange": "6.5% - 7.5%",
+      "minDownPayment": "10%",
+      "borrowerTypes": ["Individual", "Business Owner"],
+      "occupancy": ["Owner Occupied"],
+      "propertyTypes": ["Single Family"],
+      "availableInLocation": true,
+      "localVolume": 380
+    },
+    {
+      "id": "fha-ny",
+      "name": "FHA Mortgage",
+      "slug": "fha-mortgage",
+      "programType": "Residential",
+      "highlights": [
+        "Low down payment (3.5%)",
+        "Flexible credit (580+)",
+        "Great for first-time buyers"
+      ],
+      "minCreditScore": 580,
+      "interestRateRange": "6.5% - 7.25%",
+      "minDownPayment": "3.5%",
+      "borrowerTypes": ["Individual", "Self-Employed"],
+      "occupancy": ["Owner Occupied"],
+      "propertyTypes": ["Single Family", "Condo", "Townhome", "Multi-Unit 2-4"],
+      "availableInLocation": true,
+      "localVolume": 320
+    },
+    {
+      "id": "sba-ny",
+      "name": "SBA 7(a) Commercial",
+      "slug": "sba-commercial",
+      "programType": "Commercial",
+      "highlights": [
+        "Small business financing",
+        "SBA guaranteed",
+        "NYC-focused expertise"
+      ],
+      "minCreditScore": 680,
+      "interestRateRange": "7.0% - 9.0%",
+      "minDownPayment": "10%",
+      "borrowerTypes": ["Business Owner", "LLC"],
+      "occupancy": ["Investment Property"],
+      "propertyTypes": ["Office", "Retail", "Industrial", "Multi-Family"],
+      "availableInLocation": true,
+      "localVolume": 95
+    },
+    {
+      "id": "dscr-ny",
+      "name": "DSCR Non-QM",
+      "slug": "dscr-loan",
+      "programType": "NonQM Stated No Doc No income",
+      "highlights": [
+        "Income verification optional",
+        "Self-employed friendly",
+        "Investment properties"
+      ],
+      "minCreditScore": 620,
+      "interestRateRange": "7.5% - 8.5%",
+      "minDownPayment": "20%",
+      "borrowerTypes": ["Self-Employed", "Business Owner"],
+      "occupancy": ["Investment Property"],
+      "propertyTypes": ["Multi-Family", "Commercial"],
+      "availableInLocation": true,
+      "localVolume": 120
+    }
+  ],
+  "recentDeals": [
+    {
+      "id": "deal-ny-1",
+      "image": "https://images.unsplash.com/photo-1570129477492-45307c0fc9e8?w=600",
+      "loanAmount": "$2,500,000",
+      "propertyType": "Luxury Condo",
+      "neighborhood": "Upper West Side, Manhattan",
+      "city": "New York",
+      "programUsed": "Jumbo Residential",
+      "closingDate": "December 2024",
+      "successStory": "Premium 4-bedroom condo with Central Park views",
+      "borrowerName": "The Anderson Family"
+    },
+    {
+      "id": "deal-ny-2",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600",
+      "loanAmount": "$850,000",
+      "propertyType": "Townhouse",
+      "neighborhood": "Brooklyn Heights, Brooklyn",
+      "city": "New York",
+      "programUsed": "Conventional Mortgage",
+      "closingDate": "November 2024",
+      "successStory": "Historic 3-story townhouse in prestigious Brooklyn neighborhood",
+      "borrowerName": "Jennifer Martinez"
+    },
+    {
+      "id": "deal-ny-3",
+      "image": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?w=600",
+      "loanAmount": "$420,000",
+      "propertyType": "Multi-Unit Building",
+      "neighborhood": "Astoria, Queens",
+      "city": "New York",
+      "programUsed": "SBA Commercial",
+      "closingDate": "November 2024",
+      "successStory": "5-unit investment property with strong cash flow",
+      "borrowerName": "Michael Zhang"
+    },
+    {
+      "id": "deal-ny-4",
+      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600",
+      "loanAmount": "$325,000",
+      "propertyType": "Condo",
+      "neighborhood": "Long Island City, Queens",
+      "city": "New York",
+      "programUsed": "FHA Mortgage",
+      "closingDate": "October 2024",
+      "successStory": "First-time buyer achieves homeownership with low down payment",
+      "borrowerName": "Sarah Johnson"
+    },
+    {
+      "id": "deal-ny-5",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600",
+      "loanAmount": "$1,200,000",
+      "propertyType": "Investment Property",
+      "neighborhood": "Williamsburg, Brooklyn",
+      "city": "New York",
+      "programUsed": "DSCR Non-QM",
+      "closingDate": "October 2024",
+      "successStory": "Self-employed entrepreneur finances multi-unit investment",
+      "borrowerName": "David Chen"
+    },
+    {
+      "id": "deal-ny-6",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600",
+      "loanAmount": "$750,000",
+      "propertyType": "Single Family Home",
+      "neighborhood": "Riverdale, Bronx",
+      "city": "New York",
+      "programUsed": "Conventional Mortgage",
+      "closingDate": "September 2024",
+      "successStory": "Spacious suburban home with excellent schools",
+      "borrowerName": "The Patterson Family"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-ny-1",
+      "rating": 5,
+      "quote": "Sarah and her team made the entire process smooth and stress-free. They found us the perfect loan program for our jumbo property and closed in record time. Highly recommend!",
+      "customerName": "Robert Thompson",
+      "loanProgram": "Jumbo Residential",
+      "approvalDate": "December 2024",
+      "location": "Manhattan"
+    },
+    {
+      "id": "testimonial-ny-2",
+      "rating": 5,
+      "quote": "As a self-employed business owner, I thought getting a mortgage would be impossible. Marcus and Jennifer showed me multiple options and I closed on my investment property within 45 days!",
+      "customerName": "Lisa Chen",
+      "loanProgram": "DSCR Non-QM",
+      "approvalDate": "November 2024",
+      "location": "Brooklyn"
+    },
+    {
+      "id": "testimonial-ny-3",
+      "rating": 5,
+      "quote": "CMRE's team understands the New York market better than anyone. They navigated the complexities of our commercial deal with expertise and professionalism.",
+      "customerName": "Anthony Russo",
+      "loanProgram": "SBA Commercial",
+      "approvalDate": "October 2024",
+      "location": "Queens"
+    }
+  ],
+  "resources": [
+    {
+      "id": "resource-ny-1",
+      "title": "New York First-Time Buyer Guide",
+      "description": "Everything you need to know about buying your first home in NYC",
+      "type": "guide",
+      "link": "/resources/ny-first-time-buyer",
+      "relevantPrograms": ["FHA Mortgage", "Conventional Mortgage"]
+    },
+    {
+      "id": "resource-ny-2",
+      "title": "NYC Real Estate Market Report",
+      "description": "Latest trends, pricing data, and neighborhood insights for the New York area",
+      "type": "report",
+      "link": "/resources/ny-market-report"
+    },
+    {
+      "id": "resource-ny-3",
+      "title": "Interest Rate Trends",
+      "description": "Interactive chart showing historical and current mortgage rates in New York",
+      "type": "chart",
+      "link": "/resources/rates-ny"
+    },
+    {
+      "id": "resource-ny-4",
+      "title": "Investment Property Calculator",
+      "description": "Calculate ROI and cash flow for potential investment properties in NYC",
+      "type": "tool",
+      "link": "/resources/investment-calculator"
+    },
+    {
+      "id": "resource-ny-5",
+      "title": "NYC Commercial Lending Guide",
+      "description": "Comprehensive guide to commercial real estate financing in New York",
+      "type": "guide",
+      "link": "/resources/ny-commercial-guide",
+      "relevantPrograms": ["SBA Commercial", "DSCR Non-QM"]
+    }
+  ],
+  "faqItems": [
+    {
+      "question": "What programs are available for borrowers in New York?",
+      "answer": "We offer 165+ loan programs in the New York area, including FHA mortgages, conventional loans, jumbo loans, SBA commercial financing, and specialized non-QM programs for self-employed borrowers. Our team can help you find the perfect program for your situation."
+    },
+    {
+      "question": "What's the average approval time for New York borrowers?",
+      "answer": "Most of our borrowers receive approval within 5-7 business days. Our streamlined process and local expertise help us close faster than industry averages. Pre-approval can happen in as little as 24 hours."
+    },
+    {
+      "question": "What are typical interest rates for loans in New York?",
+      "answer": "Interest rates vary based on program type, credit score, and loan amount. Conventional mortgages in our market typically range from 5.5%-6.5%, while jumbo loans range from 6.5%-7.5%. We encourage you to get a personalized quote from our team."
+    },
+    {
+      "question": "Can CMRE finance co-op apartments in New York?",
+      "answer": "Yes! We have specialized programs for co-op financing. Our jumbo loan products work particularly well for high-value co-op purchases. Speak with our team for specific details about your co-op purchase."
+    },
+    {
+      "question": "What credit score do I need to qualify?",
+      "answer": "Credit score requirements vary by program. FHA loans require 580+, conventional loans typically require 700+, and jumbo loans require 720+. We also offer specialized programs for borrowers with lower credit scores. Our team can review your situation."
+    },
+    {
+      "question": "How do I get started with pre-qualification?",
+      "answer": "You can start online in just 5 minutes at cmre.com/pre-qualify, or contact our New York team directly at (212) 555-0100 to speak with a specialist who can guide you through the process."
+    }
+  ],
+  "whyChooseReasons": [
+    {
+      "title": "Local Expertise",
+      "description": "Our New York team has 18+ years serving this market. We understand the unique challenges of NYC real estate.",
+      "icon": "🏙️"
+    },
+    {
+      "title": "Fast Approvals",
+      "description": "Average approval in 5-7 days. Pre-approval in as little as 24 hours with our streamlined process.",
+      "icon": "⚡"
+    },
+    {
+      "title": "165+ Programs",
+      "description": "From traditional mortgages to specialized programs for investors and self-employed borrowers.",
+      "icon": "📋"
+    },
+    {
+      "title": "Expert Team",
+      "description": "Our dedicated specialists have an average of 12+ years in the industry and have closed thousands of loans.",
+      "icon": "👥"
+    },
+    {
+      "title": "Competitive Rates",
+      "description": "We offer market-leading rates backed by our local market knowledge and lending volume.",
+      "icon": "💰"
+    }
+  ]
+}

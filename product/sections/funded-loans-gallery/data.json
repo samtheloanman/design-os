@@ -1,0 +1,550 @@
+{
+  "deals": [
+    {
+      "id": "deal-001",
+      "propertyImage": "https://images.unsplash.com/photo-1570129477492-45307c0fc9e8?w=600",
+      "location": {
+        "city": "New York",
+        "state": "NY",
+        "address": "Upper West Side, Manhattan"
+      },
+      "propertyType": "Luxury Condo",
+      "occupancy": "Owner Occupied",
+      "borrowerType": "Individual",
+      "loanAmount": 2500000,
+      "loanAmountFormatted": "$2,500,000",
+      "interestRate": 6.75,
+      "loanTerm": 30,
+      "ltv": 80,
+      "programUsed": "Jumbo Residential",
+      "closingDate": "2024-12-15",
+      "daysToClosure": 45,
+      "borrowerStory": {
+        "quote": "CMRE made finding the right program for our luxury purchase incredibly smooth.",
+        "story": "The Anderson family purchased a 4-bedroom luxury condo with stunning Central Park views. With a purchase price over $3M, they needed specialized jumbo financing. Sarah Mitchell worked with them to secure competitive rates and a quick closing.",
+        "name": "The Anderson Family"
+      },
+      "metrics": {
+        "largeAmount": true
+      },
+      "featured": true,
+      "viewCount": 1230,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 4200,
+      "yearBuilt": 2015
+    },
+    {
+      "id": "deal-002",
+      "propertyImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600",
+      "location": {
+        "city": "Brooklyn",
+        "state": "NY",
+        "address": "Brooklyn Heights"
+      },
+      "propertyType": "Townhouse",
+      "occupancy": "Owner Occupied",
+      "borrowerType": "Individual",
+      "loanAmount": 850000,
+      "loanAmountFormatted": "$850,000",
+      "interestRate": 6.2,
+      "loanTerm": 30,
+      "ltv": 75,
+      "programUsed": "Conventional Mortgage",
+      "closingDate": "2024-11-30",
+      "daysToClosure": 38,
+      "borrowerStory": {
+        "quote": "My realtor recommended CMRE and I'm so glad they did. Everything went smoothly from start to finish.",
+        "story": "Jennifer Martinez found her dream 3-story townhouse in prestigious Brooklyn Heights. She worked with our pre-qualification team to get approved within days and close faster than typical market timelines.",
+        "name": "Jennifer Martinez"
+      },
+      "metrics": {
+        "quick": true
+      },
+      "viewCount": 892,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 3100,
+      "yearBuilt": 1890
+    },
+    {
+      "id": "deal-003",
+      "propertyImage": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?w=600",
+      "location": {
+        "city": "Queens",
+        "state": "NY",
+        "address": "Astoria"
+      },
+      "propertyType": "Multi-Unit Building",
+      "occupancy": "Investment Property",
+      "borrowerType": "Business Owner",
+      "loanAmount": 420000,
+      "loanAmountFormatted": "$420,000",
+      "interestRate": 8.1,
+      "loanTerm": 25,
+      "ltv": 70,
+      "programUsed": "SBA Commercial",
+      "closingDate": "2024-11-15",
+      "daysToClosure": 52,
+      "borrowerStory": {
+        "quote": "Marcus understood commercial lending in NYC in a way that made all the difference for our investment.",
+        "story": "Michael Zhang, a seasoned real estate investor, needed financing for a 5-unit investment property in Astoria. The property showed strong cash flow potential. Marcus Johnson navigated the SBA process expertly to close the deal.",
+        "name": "Michael Zhang"
+      },
+      "metrics": {
+        "complexScenario": true
+      },
+      "viewCount": 654,
+      "bedrooms": 10,
+      "bathrooms": 5,
+      "squareFootage": 8500
+    },
+    {
+      "id": "deal-004",
+      "propertyImage": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600",
+      "location": {
+        "city": "Queens",
+        "state": "NY",
+        "address": "Long Island City"
+      },
+      "propertyType": "Condo",
+      "occupancy": "Owner Occupied",
+      "borrowerType": "Individual",
+      "loanAmount": 325000,
+      "loanAmountFormatted": "$325,000",
+      "interestRate": 7.0,
+      "loanTerm": 30,
+      "ltv": 95,
+      "programUsed": "FHA Mortgage",
+      "closingDate": "2024-10-28",
+      "daysToClosure": 35,
+      "borrowerStory": {
+        "quote": "As a first-time buyer, CMRE made the process less overwhelming and more achievable.",
+        "story": "Sarah Johnson achieved homeownership with an FHA loan requiring only a 3.5% down payment. Robert Diaz's pre-qualification team guided her through every step, answering questions and explaining options clearly.",
+        "name": "Sarah Johnson"
+      },
+      "metrics": {
+        "quick": true
+      },
+      "viewCount": 1456,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFootage": 650,
+      "yearBuilt": 2010
+    },
+    {
+      "id": "deal-005",
+      "propertyImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600",
+      "location": {
+        "city": "Brooklyn",
+        "state": "NY",
+        "address": "Williamsburg"
+      },
+      "propertyType": "Multi-Unit 2-4",
+      "occupancy": "Investment Property",
+      "borrowerType": "Self-Employed",
+      "loanAmount": 1200000,
+      "loanAmountFormatted": "$1,200,000",
+      "interestRate": 8.0,
+      "loanTerm": 30,
+      "ltv": 80,
+      "programUsed": "DSCR Non-QM",
+      "closingDate": "2024-10-10",
+      "daysToClosure": 48,
+      "borrowerStory": {
+        "quote": "As a self-employed entrepreneur, I thought getting a loan would be nearly impossible. CMRE proved me wrong.",
+        "story": "David Chen, an entrepreneur who couldn't show traditional W2 income, found financing through CMRE's DSCR Non-QM program. Jennifer Chen's expertise with self-employed borrowers made the difference in getting him approved.",
+        "name": "David Chen"
+      },
+      "metrics": {
+        "complexScenario": true
+      },
+      "viewCount": 923,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFootage": 3500
+    },
+    {
+      "id": "deal-006",
+      "propertyImage": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600",
+      "location": {
+        "city": "Bronx",
+        "state": "NY",
+        "address": "Riverdale"
+      },
+      "propertyType": "Single Family",
+      "occupancy": "Owner Occupied",
+      "borrowerType": "Individual",
+      "loanAmount": 750000,
+      "loanAmountFormatted": "$750,000",
+      "interestRate": 6.4,
+      "loanTerm": 30,
+      "ltv": 80,
+      "programUsed": "Conventional Mortgage",
+      "closingDate": "2024-09-22",
+      "daysToClosure": 42,
+      "borrowerStory": {
+        "quote": "We found our dream home in Riverdale with great schools and space for our growing family.",
+        "story": "The Patterson family upgraded from an apartment to a spacious suburban home in Riverdale. They appreciated the excellent school district and community feel. CMRE's competitive rates helped them afford their dream home.",
+        "name": "The Patterson Family"
+      },
+      "metrics": {},
+      "viewCount": 687,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "squareFootage": 2800,
+      "yearBuilt": 1985
+    },
+    {
+      "id": "deal-007",
+      "propertyImage": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=600",
+      "location": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "address": "Pacific Palisades"
+      },
+      "propertyType": "Single Family",
+      "occupancy": "Owner Occupied",
+      "borrowerType": "Individual",
+      "loanAmount": 3200000,
+      "loanAmountFormatted": "$3,200,000",
+      "interestRate": 6.85,
+      "loanTerm": 30,
+      "ltv": 75,
+      "programUsed": "Jumbo Residential",
+      "closingDate": "2024-12-05",
+      "daysToClosure": 41,
+      "borrowerStory": {
+        "quote": "Finding a lender who understands the LA luxury market was crucial. CMRE came through perfectly.",
+        "story": "A tech executive and their family found their forever home in Pacific Palisades. With a price tag over $4M, they needed specialized jumbo financing. Our team closed in record time for this complex deal.",
+        "name": "Tech Executive Family"
+      },
+      "metrics": {
+        "largeAmount": true
+      },
+      "featured": true,
+      "viewCount": 2145,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "squareFootage": 6500,
+      "yearBuilt": 2008
+    },
+    {
+      "id": "deal-008",
+      "propertyImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600",
+      "location": {
+        "city": "Austin",
+        "state": "TX",
+        "address": "Downtown"
+      },
+      "propertyType": "Mixed-Use",
+      "occupancy": "Investment Property",
+      "borrowerType": "Business Owner",
+      "loanAmount": 850000,
+      "loanAmountFormatted": "$850,000",
+      "interestRate": 7.5,
+      "loanTerm": 25,
+      "ltv": 70,
+      "programUsed": "SBA Commercial",
+      "closingDate": "2024-11-08",
+      "daysToClosure": 55,
+      "borrowerStory": {
+        "quote": "CMRE helped us acquire the perfect mixed-use property for our business expansion in Austin.",
+        "story": "A restaurateur wanted to expand operations with a mixed-use property combining retail and office space in downtown Austin. SBA financing through CMRE provided the flexibility needed for this creative business venture.",
+        "name": "Restaurant Owner"
+      },
+      "metrics": {
+        "complexScenario": true
+      },
+      "viewCount": 534,
+      "squareFootage": 12000
+    },
+    {
+      "id": "deal-009",
+      "propertyImage": "https://images.unsplash.com/photo-1570129477492-45307c0fc9e8?w=600",
+      "location": {
+        "city": "Miami",
+        "state": "FL",
+        "address": "Brickell"
+      },
+      "propertyType": "Condo",
+      "occupancy": "Investment Property",
+      "borrowerType": "Investor",
+      "loanAmount": 680000,
+      "loanAmountFormatted": "$680,000",
+      "interestRate": 8.2,
+      "loanTerm": 20,
+      "ltv": 75,
+      "programUsed": "DSCR Non-QM",
+      "closingDate": "2024-10-31",
+      "daysToClosure": 39,
+      "borrowerStory": {
+        "quote": "Miami real estate investing required a lender who understood the market. CMRE delivered.",
+        "story": "An experienced investor acquired multiple units in a Brickell condo complex for vacation rental income. DSCR financing allowed qualification based on property performance rather than personal income.",
+        "name": "Real Estate Investor"
+      },
+      "metrics": {
+        "quick": true
+      },
+      "viewCount": 876,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFootage": 1200,
+      "yearBuilt": 2018
+    },
+    {
+      "id": "deal-010",
+      "propertyImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600",
+      "location": {
+        "city": "Seattle",
+        "state": "WA",
+        "address": "Capitol Hill"
+      },
+      "propertyType": "Townhouse",
+      "occupancy": "Owner Occupied",
+      "borrowerType": "Individual",
+      "loanAmount": 920000,
+      "loanAmountFormatted": "$920,000",
+      "interestRate": 6.55,
+      "loanTerm": 30,
+      "ltv": 80,
+      "programUsed": "Conventional Mortgage",
+      "closingDate": "2024-12-12",
+      "daysToClosure": 37,
+      "borrowerStory": {
+        "quote": "Buying in the Seattle market meant I needed a lender who could move fast. CMRE exceeded my expectations.",
+        "story": "A software engineer found their perfect townhouse in the vibrant Capitol Hill neighborhood. In a competitive market, quick pre-approval and fast closing gave them the edge to win the deal.",
+        "name": "Seattle Tech Professional"
+      },
+      "metrics": {
+        "quick": true
+      },
+      "viewCount": 1023,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFootage": 2400,
+      "yearBuilt": 2005
+    },
+    {
+      "id": "deal-011",
+      "propertyImage": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?w=600",
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "address": "LoDo District"
+      },
+      "propertyType": "Commercial",
+      "occupancy": "Investment Property",
+      "borrowerType": "Business Owner",
+      "loanAmount": 1500000,
+      "loanAmountFormatted": "$1,500,000",
+      "interestRate": 7.8,
+      "loanTerm": 25,
+      "ltv": 65,
+      "programUsed": "SBA Commercial",
+      "closingDate": "2024-11-20",
+      "daysToClosure": 60,
+      "borrowerStory": {
+        "quote": "Our SBA loan through CMRE enabled us to open three new locations across the region.",
+        "story": "A growing retail chain needed capital to expand. SBA financing through CMRE provided favorable terms and a long payback period, allowing aggressive growth while maintaining cash flow.",
+        "name": "Retail Chain Owner"
+      },
+      "metrics": {
+        "largeAmount": true
+      },
+      "viewCount": 712,
+      "squareFootage": 18000
+    },
+    {
+      "id": "deal-012",
+      "propertyImage": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600",
+      "location": {
+        "city": "San Francisco",
+        "state": "CA",
+        "address": "Marina District"
+      },
+      "propertyType": "Condo",
+      "occupancy": "Owner Occupied",
+      "borrowerType": "Individual",
+      "loanAmount": 2100000,
+      "loanAmountFormatted": "$2,100,000",
+      "interestRate": 6.95,
+      "loanTerm": 30,
+      "ltv": 80,
+      "programUsed": "Jumbo Residential",
+      "closingDate": "2024-10-18",
+      "daysToClosure": 46,
+      "borrowerStory": {
+        "quote": "In the San Francisco market, finding a lender with jumbo expertise was essential.",
+        "story": "A successful entrepreneur purchased a luxury waterfront condo in the Marina District. Jumbo financing through CMRE closed smoothly despite competitive bay area market pressures.",
+        "name": "Bay Area Entrepreneur"
+      },
+      "metrics": {
+        "largeAmount": true
+      },
+      "viewCount": 1567,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 2800,
+      "yearBuilt": 2012
+    },
+    {
+      "id": "deal-013",
+      "propertyImage": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=600",
+      "location": {
+        "city": "Boston",
+        "state": "MA",
+        "address": "Back Bay"
+      },
+      "propertyType": "Townhouse",
+      "occupancy": "Owner Occupied",
+      "borrowerType": "Self-Employed",
+      "loanAmount": 1100000,
+      "loanAmountFormatted": "$1,100,000",
+      "interestRate": 7.2,
+      "loanTerm": 30,
+      "ltv": 85,
+      "programUsed": "Bank Statement Non-QM",
+      "closingDate": "2024-09-30",
+      "daysToClosure": 43,
+      "borrowerStory": {
+        "quote": "As a consultant with variable income, traditional lenders turned me down. CMRE understood my situation.",
+        "story": "An independent consultant with strong assets and excellent payment history couldn't qualify through traditional means. Bank statement loan qualification through CMRE gave them access to prime terms.",
+        "name": "Independent Consultant"
+      },
+      "metrics": {
+        "complexScenario": true
+      },
+      "viewCount": 645,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFootage": 3200,
+      "yearBuilt": 1920
+    },
+    {
+      "id": "deal-014",
+      "propertyImage": "https://images.unsplash.com/photo-1570129477492-45307c0fc9e8?w=600",
+      "location": {
+        "city": "Chicago",
+        "state": "IL",
+        "address": "River North"
+      },
+      "propertyType": "Luxury Condo",
+      "occupancy": "Owner Occupied",
+      "borrowerType": "Individual",
+      "loanAmount": 1800000,
+      "loanAmountFormatted": "$1,800,000",
+      "interestRate": 6.7,
+      "loanTerm": 30,
+      "ltv": 78,
+      "programUsed": "Jumbo Residential",
+      "closingDate": "2024-12-08",
+      "daysToClosure": 44,
+      "borrowerStory": {
+        "quote": "Chicago's real estate market requires a jumbo lender with local knowledge. CMRE proved invaluable.",
+        "story": "A professional couple purchased a luxury high-rise condo in desirable River North. Jumbo financing through CMRE closed efficiently despite the complexity of the transaction.",
+        "name": "Professional Couple"
+      },
+      "metrics": {
+        "largeAmount": true
+      },
+      "featured": true,
+      "viewCount": 1234,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFootage": 3100,
+      "yearBuilt": 2015
+    },
+    {
+      "id": "deal-015",
+      "propertyImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600",
+      "location": {
+        "city": "Washington",
+        "state": "DC",
+        "address": "Georgetown"
+      },
+      "propertyType": "Single Family",
+      "occupancy": "Owner Occupied",
+      "borrowerType": "Individual",
+      "loanAmount": 2400000,
+      "loanAmountFormatted": "$2,400,000",
+      "interestRate": 6.8,
+      "loanTerm": 30,
+      "ltv": 75,
+      "programUsed": "Jumbo Residential",
+      "closingDate": "2024-11-25",
+      "daysToClosure": 49,
+      "borrowerStory": {
+        "quote": "Georgetown real estate is competitive and expensive. CMRE helped us move fast and secure our dream home.",
+        "story": "A government official and their family purchased a historic Georgetown townhouse with premium pricing. Jumbo financing and quick closing gave them the winning offer in a bidding war.",
+        "name": "Government Official Family"
+      },
+      "metrics": {
+        "largeAmount": true
+      },
+      "viewCount": 956,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "squareFootage": 4500,
+      "yearBuilt": 1895
+    }
+  ],
+  "featuredDeals": [
+    "deal-001",
+    "deal-007",
+    "deal-014"
+  ],
+  "stats": {
+    "totalFunded": "$12.5B+",
+    "totalDeals": 8500,
+    "successRate": 98.5,
+    "avgDaysToClose": 42,
+    "marketsServed": 50
+  },
+  "filterOptions": {
+    "programTypes": [
+      "Residential",
+      "Commercial",
+      "Hard Money",
+      "NonQM",
+      "Construction",
+      "Reverse Mortgage",
+      "Jumbo",
+      "Investment"
+    ],
+    "propertyTypes": [
+      "Single Family",
+      "Condo",
+      "Townhome",
+      "Multi-Unit 2-4",
+      "Multi-Unit 5+",
+      "Commercial",
+      "Mixed-Use",
+      "Land"
+    ],
+    "occupancyTypes": [
+      "Owner Occupied",
+      "Investment Property"
+    ],
+    "borrowerTypes": [
+      "Individual",
+      "Self-Employed",
+      "Business Owner",
+      "LLC/Corporation",
+      "Investor"
+    ],
+    "locations": [
+      "New York, NY",
+      "Los Angeles, CA",
+      "Chicago, IL",
+      "San Francisco, CA",
+      "Boston, MA",
+      "Austin, TX",
+      "Miami, FL",
+      "Seattle, WA",
+      "Denver, CO",
+      "Washington, DC"
+    ]
+  },
+  "dealsPerPage": 12
+}

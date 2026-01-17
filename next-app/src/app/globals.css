@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #1A202C;
+  --primary: #1A202C;
+  --accent: #1DAED4;
+  --secondary: #E2E8F0;
+  --card-bg: #EDF9FD;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-accent: var(--accent);
+  --color-secondary: var(--secondary);
+  --color-card: var(--card-bg);
+
+  --font-display: var(--font-bebas-neue);
+  --font-body: var(--font-raleway);
+  --font-sans: var(--font-raleway);
+}
+
+@layer base {
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-body), sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    /* Matching the robust feel of the live site */
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-display), sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+}
